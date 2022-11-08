@@ -11,19 +11,33 @@ export default function Projects() {
         <a href="#">https://github.com/AmaechiMcMillan/MoviesRUs</a>
         <img src="https://via.placeholder.com/200" alt="Your Name" /> */}
       {/* </p> */}
-      <img
+      {/* <img
         src="https://via.placeholder.com/200"
         class="card-img-top"
         alt="Amaechi McMillan"
-      />
+      /> */}
       <div class="card-body card w-25">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Family Tree</h5>
         <p class="card-text">
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
+          This is an app that helps you keep track of your family members.
         </p>
-        <a href="#" class="btn btn-primary">
-          https://github.com/AmaechiMcMillan/FamilyTree
+        <a
+          href="https://github.com/AmaechiMcMillan/FamilyTree"
+          class="btn btn-primary"
+        >
+          FamilyTree
+        </a>
+      </div>
+      <div class="card-body card w-25">
+        <h5 class="card-title">MoviesRUs</h5>
+        <p class="card-text">
+          This app was made to be able to search your favorite movie quickly.
+        </p>
+        <a
+          href="https://github.com/AmaechiMcMillan/MoviesRUs"
+          class="btn btn-primary"
+        >
+          MoviesRUs
         </a>
       </div>
     </div>
