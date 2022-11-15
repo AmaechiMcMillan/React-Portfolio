@@ -40,6 +40,19 @@ export default function Projects() {
           MoviesRUs
         </a>
       </div>
+      <div class="card-body card w-25">
+        <h5 class="card-title">TravelX</h5>
+        <p class="card-text">
+          This app allows you to quickly and efficiently schedule a trip via
+          flight, hotel and activities in you local area.
+        </p>
+        <a
+          href="https://github.com/AmaechiMcMillan/TravelX"
+          class="btn btn-primary"
+        >
+          TravelX
+        </a>
+      </div>
     </div>
   );
 }
